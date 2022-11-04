@@ -686,29 +686,5 @@ footer span a:hover{
     }
     
     
-    footer {
-        position: absolute;
-        color:#f9004d;
-        bottom: 35px;
-        font-size: 14px; 
-    }
-    a:link {
-        color: green;
-        background-color: transparent;
-        text-decoration: none;
-    }
-    a:visited {
-        color: pink;
-        background-color: transparent;
-        text-decoration: none;
-    }
-    a:hover {
-        color: red;
-        background-color: transparent;
-        text-decoration: underline;
-    }
-    a:active {
-        color: yellow;
-        background-color: transparent;
-        text-decoration: underline;
-    }
+    
+    
